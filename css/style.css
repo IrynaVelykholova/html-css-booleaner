@@ -1,17 +1,24 @@
 header {
     background-color: dodgerblue;
     background-image: url("../img/pattern.png");
-    height: 150px;
+    background-repeat: repeat;
+    height: 120px;
 }
 #logo {
     height: 70px;
+    margin-left: 100px;
+    margin-top: 50px;
 }
 #titolo {
     font-size: 40px;
+    margin-bottom: 0px;
 }
 section {
-    text-align: center;
+    margin-left: 100px;
 }
 .sottotitolo {
-    color: rgba(87, 76, 76, 0.137);
+    color: dimgrey;
+}
+#TheBooleaner {
+    color: deepskyblue;
 }
