@@ -29,3 +29,22 @@ section {
 .evidenziato {
     background-color: yellow;
 }
+.table-thead {
+    background-color: cornflowerblue;
+    color: white;
+}
+.colonna1 {
+    width: 140px;
+}
+.colonna2 {
+    width: 140px;
+}
+.riga1 {
+    background-color: darkturquoise;
+}
+.riga3 {
+    background-color: darkturquoise;
+}
+table{
+    margin-bottom: 20px;
+}
