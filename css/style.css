@@ -48,3 +48,27 @@ section {
 table{
     margin-bottom: 20px;
 }
+#testo-sotto-tabella {
+    margin-bottom: 40px;
+}
+footer {
+    margin-left: 100px;
+    margin-right: 500px;
+}
+#pre-footer {
+    color: dimgrey;
+}
+#prima-immagine {
+    color: white;
+    background-image: url("../img/monitor.jpg");
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
+#seconda-immagine {
+    color: white;
+    background-image: url("../img/graph.jpg");
+    width: 200px;
+    height: 200px;
+    text-align: center;
+}
