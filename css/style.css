@@ -15,10 +15,17 @@ header {
 }
 section {
     margin-left: 100px;
+    margin-right: 500px;
 }
 .sottotitolo {
     color: dimgrey;
 }
 #TheBooleaner {
     color: deepskyblue;
+}
+#sottoimmagini {
+    margin-bottom: 20px;
+}
+.evidenziato {
+    background-color: yellow;
 }
