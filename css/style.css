@@ -1,0 +1,17 @@
+header {
+    background-color: dodgerblue;
+    background-image: url("../img/pattern.png");
+    height: 150px;
+}
+#logo {
+    height: 70px;
+}
+#titolo {
+    font-size: 40px;
+}
+section {
+    text-align: center;
+}
+.sottotitolo {
+    color: rgba(87, 76, 76, 0.137);
+}
